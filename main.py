@@ -74,4 +74,5 @@ model = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
 chain = chat_template | model | StrOutputParser()
 response = chain.invoke({"query":query_text, "context":"context_text"})
 print(response)
+###
 
