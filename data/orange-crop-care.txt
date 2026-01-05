@@ -1,0 +1,421 @@
+Orange Crop Management
+INTRODUCTION
+The best economic returns are achieved for fresh fruit and it is important to manage
+trees to produce good quality fruit. Market specifications should always be the main
+determinant of crop management so that the fruit produced are the right size and
+quality.
+CROP DEVELOPMENT
+In tropical and subtropical regions with mild winter temperatures lemons tend to be
+everflowering and can bear multiple crops throughout the year (Northern Territory,
+Queensland, Western Australia, northern and coastal NSW). However the main crop
+is produced in late autumn - winter. This tendency to produce multiple crops extends
+the supply season providing market opportunities, but it also increases production
+and management costs. Fruit growth and development in warmer areas is faster
+taking between 6-7 months to reach maturity.
+In the southern growing areas of New South Wales, Victoria and South Australia
+with hot summers and cold winters one crop is normally produced from the spring
+flowering and harvested in late autumn- winter. Fruit growth and development in
+these areas is slower taking between 8-9 months to reach maturity.
+Citrus trees go through a sequence of growth phases throughout the year. In districts
+where there is only one crop of lemons produced the timing of these growth phases
+would be fairly typical. However in regions where multiple crops are produced
+different phases of growth would be occuring simultaneously. The typical sequence is
+as follows:
+Bud formation and flower initiation (mid winter)
+↓
+Flowering and fruit set (early spring)
+↓
+Fruit growth - cell division (late spring - early summer)
+↓
+Fruit growth - cell expansion (mid summer - early autumn)
+↓
+Fruit maturation (late autumn - winter)
+Flowering
+Flowering in citrus occurs when there are favourable temperatures and soil water
+and flowering in lemons is affected by climatic factors more than with other citrus
+varieties. Flowering occurs 3-4 weeks earlier in warmer districts such as the
+Northern Territory and Queensland compared to the cooler southern regions of
+Australia.
+Flower bud induction occurs with the cessation of vegetative growth as a result of
+either:
+• cold temperatures (less than 25ºC for several weeks) in winter. The semi
+dormant state of trees in winter is more easily broken in lemons than with
+other citrus varieties enabling them to produce flowers and fruit throughout the
+year; or
+• or a period of water stress longer than 30 days, especially in tropical and
+subtropical areas.
+Growing Lemons in Australia - a production manual©
+Crop Management
+The buds then differentiate into flowers when warm temperatures or soil moisture
+relieve the stress.
+Other forms of stress such as drought or a sudden flush of moisture after a dry-spell
+can also cause flowering. In a well-managed lemon orchard, stress is normally
+avoided by careful and timely application of management practices especially
+irrigation.
+Flowering can also be affected by other management practices. For example
+nitrogen fertiliser has been used to stimulate flowering but this is usually only effective
+if levels of nitrogen in plant tissue are below optimum concentrations.Time of harvest
+can also have a significant effect on flowering especially if fruit are hung late.
+Fruit set and growth
+Lemons do not need cross pollination to set fruit and produce a crop. Lemons are
+also less sensitive than oranges to high temperatures in the fruit set period and good
+yields are obtained in hot regions.
+Fruit growth rate is a function of temperature and soil moisture. The higher the mean
+temperature the faster the growth rate, providing there is adequate water. Fruit
+growth is faster in tropical and subtropical areas and slower in cooler climates. In
+tropical and subtropical regions the fruit grows uninterruppted if moisture is not
+limiting with a reduced time to reach maturity. In colder areas growth can be
+interrupted by cold temperatures.The optimum temperature for lemon tissue growth
+is 30ºC, temperatures of 25-30ºC are satisfactory and no growth occurs above
+40ºC. The crop load is normally the most important determinant of final fruit size,
+however local climatic conditions, nutrition and irrigation also have an effect.
+FRUIT QUALITY CHARACTERISTICS
+There are many factors that have an affect on the the internal and external quality
+characteristics of fruit. Variety and rootstock selections, tree age, local climatic
+conditions and management practices all impact on fruit quality. For information on
+the fruit quality characteristics of different varieties and the effects of rootstock on
+fruit quality characteristics refer to the Varieties and Rootstock sections of this
+manual.
+Internal quality
+Lemons are naturally acid, being high in total acidity and low in Total Soluble Solids
+(TSS) compared to other citrus varieties (excepting acid limes). In lemons the
+organic acid content increases with fruit development whereas in oranges it
+decreases.
+The accumulation of acid is highly correlated with temperature. In hot tropical and
+subtropical regions, fruit tend to have higher quantities of acid per tonne of fruit.
+Rootstock also appears to influence fruit acidity but this can be variable depending
+on variety. Generally fruit grown on Rough lemon rootstock have lower acidity than
+those grown on P. trifoliata. The amount of irrigation does not appear to
+significantly influence internal fruit quality but the quality of irrigation water does.
+Generally increasing salinity results in a decrease in percent juice, acidity and TSS,
+however the degree of impact is also influenced by rootstock.
+In the past percent juice was the only internal quality characteristic used as a
+marketing standard for lemons in Australia. Fruit needed to have a minimum juice
+content of 25% for the main winter crop and 20% for the spring and summer crops,
+but these marketing standards no longer apply in the Australian domestic market.
+California recommends a minimum juice content of 25% for lemons.
+Growing Lemons in Australia - a production Factors impacting
+on fruit quality -
+Variety
+Rootstock
+Climate
+Nutrition
+Pruning
+Irrigation
+Pests
+Diseases
+Wind
+
+Crop Management
+Medium to long term postharvest storage of fruit can increase the juice content and
+acidity and reduce peel thickness of fruit. It is sometimes used to improve the quality
+of main crop (winter) lemons which have a tendency to become thick skinned and
+dry if left too long on the tree.
+As fruit overmature their quality declines with decreasing percent juice, fruit firmness,
+total acidity and ascorbic acid content and increasing fruit diameter, weight and peel
+thickness.
+Pests such as spined citrus bug and some nutrient deficiencies, such as boron, can
+also affect internal fruit quality by causing internal browning, gumming and drying of
+the pulp.
+Fruit shape
+Fruit shape is largely governed by variety choice, however shape can also change as
+the fruit matures or the trees get older. An example of this is the Verna lemon which
+has quite a prominent neck when produced from young trees, but which appears to
+be less pronounced as trees mature. Also if the Verna fruit are left to hang late on the
+tree the neck can fill out and become less prominent.
+Fruit size
+Fruit size is influenced by variety, rootstock, crop load and irrigation practices.
+Generally when there is a heavy crop or high numbers of fruit, average fruit size
+decreases. Some varieties such as Fino and Yen Ben tend to produce small to
+medium sized fruit in spite of crop load. Good irrigation management is important in
+achieving good fruit set and obtaining maximum fruit size. For more information on
+irrigation refer to the Irrigation section of this manual.
+Peel quality
+Peel quality and skin thickness are a result of variety choice but are significantly
+influenced by rootstock choice, nutrition and environmental conditions. For example
+fruit grown on Rough lemon rootstock tend to be more coarsely textured with thicker
+skins than that grown on P. trifoliata rootstock. Plant nutrition, in particular the
+balance of nitrogen, phosphorous and potassium significantly influence peel
+characteristics. For example excessive nitrogen and potassium levels result in fruit
+which are puffy and have thick peels. An excess of nitrogen can also delay peel
+colour development. For more information on the impacts of nutrition on fruit quality
+refer to the Nutrition section of this manual.
+The extraction of the peel oil from lemons is an important process in some countries.
+The amount of peel oil in fruit is dependent on variety and tends to increase as the
+fruit develop and mature. Peel oil yield can also be affected by tree nutrition, with
+increased nitrogen tending to increase oil yield whilst increased potassium depresses
+oil yield.
+The incidence of pests, diseases and wind can significantly reduce the external quality
+of fruit so good pest and disease management is essential. For more information on
+pests, diseases and their control refer to the Pests, Diseases and Control sections of
+this manual.
+ACHIEVING GOOD FRUIT QUALITY
+There are a number of other key management techniques that can be used to
+improve fruit quality. These include pruning, skirting, planting interrow sods and
+windbreaks.
+Pruning
+In general, lemons trees are usually very vigorous and require regular pruning.
+Growing Lemons in Australia - a production manual©
+
+Crop Management
+Pruning also keeps production zones nearer to the ground where the costs of
+harvesting are lower.
+Pruning opens up the tree for better light penetration and helps encourage and
+promote fruit throughout the entire tree canopy. Fruit are produced on strong young
+branches which need adequate sunlight to grow and develop. Fruit produced on the
+insides of trees are more protected from wind and sunburn.
+Pruning also removes deadwood which is a source of disease particularly in areas of
+higher rainfall and humidity such as on the coast.
+Hedging can be an important cultural practice especially when closer row spacings
+are used. It is used to shape the canopy allowing more sunlight to get to the lower
+parts of the canopy. Timing of hedging is important and should be undertaken at
+times that reduce damage to maturing fruit and to avoid sunburn of both fruit and tree
+limbs. For more information on hedging refer to the Canopy Management section of
+this manual.
+Skirting trees
+Skirting trees involves removing all the low hanging branches and foliage from near
+the ground.
+The benefits of skirting on fruit quality include:
+eliminates mechanical damage to fruit coming into contact with the ground;
+prevents fungal pathogens (eg. Phytophthora spores) from being splashed
+from the soil onto the fruit or foliage;
+disrupts the pathway from weeds to the tree, that ants other insects and
+snails use;
+makes it easier to apply herbicides without spray drift to fruit and foliage.
+This is important in reducing residues in fruit and herbicide damage to fruit
+and foliage;
+improves the uniformity of distribution of water during irrigation and also
+allows for easier maintenance of irrigation systems;
+prevents damage to fruit when equipment is used to spread fertilisers or
+mow interrow sods,
+improves air circulation in the tree canopy, which reduces the incidence of
+disease and speeds the drying of fruit to be harvested.
+Interrow Sods
+The cultivation and maintenance of a permanent vegetative cover between the tree
+rows is known as the interrow sod. The sod is normally a mixture of perennial
+grasses and legume species (such as peas, medics or clovers). The interrow sod
+needs water and nutrients to survive and this needs to be taken into account when
+irrigating and fertilising your trees. In winter the sod should be kept short to prevent
+the incidence of frost.
+The benefits of having an interrow sod include:
+provides an important habitat for beneficial insects;
+helps keep the orchard cooler in summer and warmer in winter;
+Growing Lemons in Australia - a production manual©
+Crop Management
+reduces dust;
+improves soil organic matter;
+improves soil structure;
+improves and maintains soil flora and fauna populations and biodiversity;
+improves soil water and nutrient holding capacity;
+improves water penetration into the soil;
+reduces runoff and soil erosion;
+supplies extra nutrients. If legumes such as peas, medics and clovers are
+used they can provide a small amount of nitrogen;
+allows tree roots to remain active closer to the soil surface.The soil is cooler
+under the sod in summer so tree roots are able to remain active for longer.
+This allows the tree to continue extracting essential nutrients which are often
+concentrated near the surface.
+Windbreaks
+Windbreaks help reduce blemish on fruit and improve tree growth which affects crop
+yield. Surface wind scarring on fruit is one of the major reasons for fruit being
+downgraded or rejected at the packing line. Where possible, plant natural
+windbreaks well before the lemon trees are planted. Living windbreaks also need
+adequate irrigation and nutrition (especially when young) to enhance the rate of
+growth and reduce the competition of windbreak trees with the lemon trees.
+The shade caused by windbreaks can have a detrimental effect on adjacent orchard
+trees so windbreaks may need occasional hedging to reduce their shading effects and
+to retain the ideal degree of permeability. Regular deep ripping of tree roots between
+the windbreak trees and the lemon orchard is essential.
+Generally well-managed windbreaks contribute significantly to the profitability of an
+orchard. For more information on windbreaks see the Orchard Establisment section
+of this manual.
+Lemon crop management in Australia is largely focussed on practices that aim to
+produce fruit “out of season” in the late spring to early autumn period, when there is
+a shortage of local fruit and prices on the domestic market are highest.
+Normally lemon trees tend to flower heavily in spring producing the majority of their
+crop in winter. Even in those areas where trees have the ability to set several crops
+throughout the year between 65 - winter (May to August) while the remaining 25 - 35% is harvested mostly between
+December and April.
+There are a range of management practices that have been used around the world to
+market fruit “out of season” and to manipulate cropping times. The most commonly
+used practices are documented below. The most well documented method of
+manipulating cropping is the use of water stress to induce flowering out of season.
+Variety and Rootstock Choice
+Lemon variety and rootstock selection as well as mix have been used in some
+orchards to extend the fruit production period. A selection of different varieties on a
+Growing Lemons in Australia - a production manual©
+MANAGING CROP LOAD AND TIMING
+75% of fruit is still set in spring and harvested in
+Crop Management
+range of rootstocks can be planted to
+expand the timing and extent of harvest.
+However this technique is more suited to
+smaller scale operations and in areas
+where trees have the ability to flower
+throughout the year.
+Some lemon varieties such as Verna
+naturally mature much later than other
+varieties. At a trial site on the Central
+Coast of NSW Verna matures 2-3
+months later than Eureka and Fino, in
+early to mid spring. However in this trial
+any Verna trees that had a very heavy
+Verna trees with very heavy crop
+loads and harvested late, were
+inclined to have significant limb
+breakages and some trees died as a
+result.
+crop load and were harvested late
+(October) tended to have significant limb
+breakages and some trees died. In the following winter the crop load was also very
+small with trees tending towards an alternate bearing cycle. Hanging fruit late can
+impact on the amount of flowering in the following spring.
+Tree spacing
+Tree spacing can have a major effect on orchard profitability. Normally the closer
+trees are planted the earlier they come into production.The higher setup costs of
+high-density plantings is partly offset by this early production and yield, however
+controlling tree size is critical in high density plantings. Assess the expected tree
+vigour and future pruning program in determining ideal tree spacings.
+Choice of variety, rootstock and soil depth will also affect tree vigour and growth.
+For more information on variety and rootstock characteristics refer to these sections
+in the manual. The tree spacing selected should allow for easy access of equipment
+(eg sprayers and tractors) down each row without causing damage to fruit. Ideally
+tree canopies should meet within the row in around five years.Typical tree planting
+densities for lemons in Australia are 6 - 7m between rows and 3.5 - 4m between
+trees. High density plantings are 5 - 6 m between rows and 2 - 3m between trees.
+For more information refer to the Grower Case Studies section of this manual.
+Postharvest Storage
+Lemons are able to be cool stored after harvest for long periods of time and short
+and long term storage can be used to market fruit at times of peak market demand
+both in Australia and overseas. In Australia this practice is not common and is usually
+only used on the main winter crop. In California long term postharvest storage is
+common practice.
+Fruit harvested when silver green are stored for around 6 weeks, light green fruit for
+up to 2 months and dark green fruit for 5-6 months. During storage, if fruit are
+internally mature when harvested, fruit quality characteristics such as peel thickness
+and juice content can be improved. Fruit need to be regularly monitored during
+storage as losses from postharvest diseases such as green and blue mould can be
+high. For more information on postharvest storage of lemons refer to the Postharvest
+Handling section of this manual.
+Degreening
+Lemons can also be harvested when the peel is still green and then artificially
+coloured using the natural ripening compound ethrel. Degreening allows fruit to be
+Growing Lemons in Australia - a production manual©
+Crop Management
+picked to size and is most commonly used to market the main winter crop early, in
+May rather than June or July. Fruit that are going to be degreened should still be
+internally mature.
+For more information on degreening lemons refer to the Postharvest Handling section
+of this manual.
+Growth Regulators
+Giberrellic acid (GA) a natural plant hormone, delays the loss of green pigment in the
+fruit rind thereby delaying fruit maturity. It is registered for use in lemons and can be
+applied 4-6 weeks prior to harvest when fruit are at the silver green stage. However
+if fruit are to be degreened postharvest, the application of GA will also increase the
+time it takes to colour fruit compared to unsprayed fruit. For more information on the
+use of GA refer to the Pest and Disease Control section of this manual.
+Lemons can be sprayed with GA at the
+silver green stage to delay harvest.
+Photo by Greg Moulds
+Colour development of GA
+sprayed lemons (top) compared
+to unsprayed fruit.
+Pruning
+Pruning is being tried by a number of growers to regulate flowering and crop load,
+but there is no documented evidence on what procedures consistently work.
+Pruning could be used to physically adjust crop load at the main spring flowering and
+fruit set time. Pruning is undertaken either at flowering or after fruit set in spring,
+reducing the crop load resulting in a smaller winter crop. It is hoped that this would
+result in the trees setting more flowers and fruit at other times of the year. Hedging
+would be the most economical method of pruning to use.
+Some growers are also experimenting with using pruning at different times of the year
+to manipulate flowering “out of season”. One approach has been to prune in autumn
+to reduce the number of potential flowering sites in the following spring, thereby
+reducing the main winter crop. Coupled with this technique has been a modified
+nutrition program.
+Water Stress
+The use of water stressing lemon trees to produce an out of season crop is common
+practice in Sicily. In Sicily as in the warmer parts of Australia lemon trees normally do
+flower in summer but the crop load is small. In Sicily summer temperatures are 24-
+26oC and there is a pronounced dry period from June-August.
+Growing Lemons in Australia - a production manual©
+Crop Management
+In Sicily water is withheld from lemon trees at the beginning of summer (June-July)
+until the trees are severely water stressed. During this time the flower buds are
+induced but rarely develop. Trees are then irrigated forcing (“forzatura”) them to
+flower (usually 3-4 weeks later) in autumn. This out of season summer crop the
+“verdelli” is then ready for harvest the following summer.
+In Australia: A number of lemon growers throughout Australia have trialled the use
+of water stress to manipulate the seasonality of fruit production with limited success.
+However it works best in areas that have a predictable and guaranteed dry season.
+Overall it appears that its success rate has been extremely variable and it cannot be
+relied upon with any certainty especially if local rainfall events are unpredictable.
+In the Northern Territory researchers have been having some success with using
+water stress to manipulate cropping in lemon and grapefruit trees growing at
+Katherine. In this region they typically have problems with poor and erratic flowering
+due to the tropical climate and absence of very cold temperatures. Their aim was for
+the lemon trees to produce a crop in the December-February period which has high
+domestic market prices. Researchers have been trialling the use of water stress since
+1996 and the trees still appear to be in relatively good condition.
+In the Northern Territory they have a fairly predictable dry season extending from
+May to September. The subtropical growing conditions mean that fruit grow quickly
+taking around 6-7 months to mature, compared with cooler regions where fruit take
+8-9 months to reach maturity. Flowering is also concentrated into a 2-3 week
+period.
+The current method used in the Northern Territory focuses on maintaining a dry
+period of around six weeks. Periods less than this (ie four weeks) have not induced
+flowering. After six weeks of withholding water the trees look very stressed with full
+leaf curl and 10-20% leaf drop. The technique has been successfully tried on Eureka
+lemons on a range of rootstocks (Troyer, Benton, Swingle and Cleopatra).
+Approximate timing is to start the water stress at the beginning of May for a period
+of six weeks; irrigate in mid-June; the fruit are set by late July and then ready for
+harvest at the end of January. When using this technique the lemon trees will only
+produce one crop per year.
+After water stressing the trees for six weeks the trees are then irrigated and fertilised
+with 100% of the annual nitrogen requirement (100g/tree/year of age) plus a foliar
+urea spray at 1.5%. Fruitlets are set six weeks after the initial irrigation with flowering
+occurring during that time. So the sequence of events is six weeks of water stress,
+followed by irrigation and fertilisation. The next six week period consists of bud
+break, leaf flush, flowering and fruitset followed by a 28 week fruit development
+period. In total the program takes a total of 40 weeks1
+.
+In California2: The aim of using water stress is to achieve a second crop of lemons,
+harvested during the summer. The long term effects of using moisture stress on yield
+and tree vigour are unknown. The method recommended here is based on that used
+in Sicily. (NB.Timing is for the northern hemishere).
+1. Starting the Stress – Turn the water off during the first two weeks of June
+(December in Australia). Allow trees to use up the available soil moisture and
+reach the “permanent wilt” level of water stress (25 to 35 bars, negative
+predawn xylem pressure potential). Visual symptoms include: slight
+defoliation, yellowing and curling of leaves, complete cessation of growth, and
+leaves wilted at dawn. If this level of stress is reached in less than 50 to 60
+Growing Lemons in Australia - a production manual©
+Crop Management
+days, start a deficit irrigation (see step 2 below) before a significant number of
+trees reach 50% defoliation, approximately 45 bars. Excessive defoliation will
+weaken the tree, reduce “Verdelli” fruit set and the quality of the winter crop.
+If the desired stress (25 to 35 bars) is reached after 50-60 days you don’t
+need to implement deficit irrigation. Sandy and shallow soils will usually dry
+before 50 days and will need the deficit irrigation.
+2. Deficit Irrigation – If the 25 to 35 bar level is reached in less than 50 days
+then a deficit irrigation regime should be initiated. Apply one-fourth of the
+normal crop water use in weekly to three times weekly irrigations. Typical
+rates will be 265 to 380 litres per tree per week during the deficit irrigation
+regime. The amount of applied water on any one day should not be sufficient
+to initiate new growth, but only to keep the plant from defoliating. Plant water
+stress levels of 20 to 30 bars during this period appear to be optimal.
+3. Resumption of Irrigation – The trees should be rewatered after 50 to 60
+days from the start of the dry period. The first irrigation must be sufficient to
+refill the primary root zone (top 18 inches of soil). Sprinklers have been the
+most effective for rapidly bringing the trees out of stress. After the root zone
+has been replenished, normal irrigation should be resumed. Overhead sprinkler
+irrigation should be avoided during “Verdelli” bloom to minimise pollination and
+disease problems.
+4. Fertilisation – Nitrogen fertiliser appears to have minimal effect on the
+production of bloom, but is thought to be beneficial for fruit set and growth.
+Soil applied nitrogen of 18 to 36 kg of N per hectare has been the traditional
+approach, but foliar urea, one week and three weeks after resumption of
+irrigation also appears effective.
+5. Pruning – Heavy pruning should be avoided during April or May before the
+“Verdelli” stress, but trees pruned after two to three weeks of stress have
+produced a successful “Verdelli” crop.
